@@ -1,3 +1,3 @@
-## My project on PHP 🐘
+## My project on Python 🐍
 
-*   **[ToDoBot](https://github.com/devother/marktask-bot)**: "Buy milk, conquer world" – A Python To-Do Bot Story.
+*   **[MarkTask](https://github.com/devother/marktask-bot)**: "Buy milk, conquer world" – A Python To-Do Bot Story.
